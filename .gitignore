@@ -1,0 +1,14 @@
+# Node modules (don't push heavy dependencies)
+node_modules/
+
+# Environment variables (keep API keys secret)
+.env
+
+# Logs (optional)
+logs
+*.log
+npm-debug.log*
+
+# OS-specific files (optional but useful)
+.DS_Store
+Thumbs.db
